@@ -1,0 +1,15 @@
+start java -jar SpeedStats.jar 0 0 2000 skip
+start java -jar SpeedStats.jar 0 2000 2000 skip
+start java -jar SpeedStats.jar 0 4000 2000 skip
+start java -jar SpeedStats.jar 0 6000 2000 skip
+start java -jar SpeedStats.jar 0 8000 2000 skip
+start java -jar SpeedStats.jar 0 10000 2000 skip
+start java -jar SpeedStats.jar 0 12000 2000 skip
+start java -jar SpeedStats.jar 0 14000 2000 skip
+start java -jar SpeedStats.jar 0 16000 2000 skip
+start java -jar SpeedStats.jar 0 18000 2000 skip
+start java -jar SpeedStats.jar 0 20000 2000 skip
+start java -jar SpeedStats.jar 0 22000 2000 skip
+start java -jar SpeedStats.jar 0 24000 2000 skip
+start java -jar SpeedStats.jar 0 26000 2000 skip
+start java -jar SpeedStats.jar 0 28000 2000 skip

@@ -1,8 +1,8 @@
 package com.tsunderebug.speedrun4j;
 
-public class Speedrun4JPublic {
+public class Speedrun4J {
 
-	private Speedrun4JPublic(){}
+	private Speedrun4J(){}
 
 	public static int proxyNum = 0;
 	public static final String USER_AGENT = "Speedrun4j/1.0";
